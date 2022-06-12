@@ -1,0 +1,1 @@
+# CRUDgeneric_views-classbasedviews-
